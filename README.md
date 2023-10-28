@@ -3,8 +3,8 @@
  **Based on the [Stylar-TS](https://github.com/StylarBot/Stylar-TS) handler**
 
 # Instructions Index
-**[Downloading](https://github.com/benjisqt/discordts-template-v14#downloading)**
-**[Obtaining A Bot Token](https://github.com/benjisqt/discordts-template-v14#obtaining-a-bot-token)**
+**[Downloading](https://github.com/benjisqt/discordts-template-v14#downloading)**<br>
+**[Obtaining A Bot Token](https://github.com/benjisqt/discordts-template-v14#obtaining-a-bot-token)**</br>
 **[Running The Bot](https://github.com/benjisqt/discordts-template-v14#running-the-bot)**
 
 # Downloading
